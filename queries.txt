@@ -1,0 +1,11 @@
+https://restcountries.com/v3.1/all
+https://restcountries.com/v3.1/name/canada
+https://restcountries.com/v3.1/name/canada?fullText=true
+https://restcountries.com/v3.1/alpha/CA
+https://restcountries.com/v3.1/alpha?codes=CA,ES,FR
+https://restcountries.com/v3.1/currency/EUR
+https://restcountries.com/v3.1/lang/catalan
+https://restcountries.com/v3.1/capital/rome
+https://restcountries.com/v3.1/region/oceania
+https://restcountries.com/v3.1/subregion/Southern Europe
+https://restcountries.com/v3.1/subregion/Southern Europe?fields=name,region,languages
